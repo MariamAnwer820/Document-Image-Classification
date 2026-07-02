@@ -1,4 +1,5 @@
 # Document Image Classification Using Lightweight CNNs with OCR Fusion
+<img width="1200" height="1500" alt="proj_cover" src="https://github.com/user-attachments/assets/183ad61b-46ab-4456-8708-d07a0fdd50ff" />
 
 A multimodal document image classification framework that combines lightweight convolutional neural networks with an OCR-based text classification pipeline, achieving **87.57% accuracy** on the RVL-CDIP benchmark through stacking meta-learner fusion — a **12.17 pp improvement** over the best single CNN model.
 
